@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\configurator\Configurator.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\gui\ReportGenerator.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\gui\TimeMeter.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\gui\tools\FileListModelEntry.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\gui\tools\ImageFileFilter.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\gui\windows\FrameComponentInit.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\gui\windows\FrameHelp.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\gui\windows\FrameMain.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\imageanalysis\Band.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\imageanalysis\BandGraph.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\imageanalysis\CarSnapshot.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\imageanalysis\CarSnapshotGraph.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\imageanalysis\Char.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\imageanalysis\Graph.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\imageanalysis\HoughTransformation.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\imageanalysis\Peak.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\imageanalysis\PeakComparator.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\imageanalysis\Photo.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\imageanalysis\PixelMap.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\imageanalysis\Plate.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\imageanalysis\PlateGraph.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\imageanalysis\PlateHorizontalGraph.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\imageanalysis\PlateVerticalGraph.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\imageanalysis\PositionInPlate.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\imageanalysis\Statistics.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\intelligence\Intelligence.java">
+<error line="66" column="5" severity="warning" message="Method length is 229 lines (max allowed is 150)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\intelligence\parser\Parser.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\intelligence\parser\PlateForm.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\intelligence\parser\Position.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\intelligence\RecognizedPlate.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\intelligence\SyntaxAnalysisMode.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\jar\Main.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\neuralnetwork\NeuralNetwork.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\recognizer\CharacterRecognizer.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\recognizer\KnnPatternClassifier.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\recognizer\NeuralPatternClassifier.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\recognizer\PatternComparator.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\recognizer\RecognizedChar.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\recognizer\RecognizedPattern.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\tools\HoughTool.java">
+</file>
+<file name="C:\devtools\javaanpr\src\main\java\net\sf\javaanpr\tools\TestStatistics.java">
+</file>
+<file name="C:\devtools\javaanpr\src\test\java\net\sf\javaanpr\configurator\ConfiguratorTest.java">
+</file>
+<file name="C:\devtools\javaanpr\src\test\java\net\sf\javaanpr\gui\ReportGeneratorTest.java">
+</file>
+<file name="C:\devtools\javaanpr\src\test\java\net\sf\javaanpr\gui\tools\ImageFileFilterTest.java">
+</file>
+<file name="C:\devtools\javaanpr\src\test\java\net\sf\javaanpr\imageanalysis\PeakComparatorTest.java">
+</file>
+<file name="C:\devtools\javaanpr\src\test\java\net\sf\javaanpr\imageanalysis\PhotoTest.java">
+</file>
+<file name="C:\devtools\javaanpr\src\test\java\net\sf\javaanpr\intelligence\RecognizedPlateTest.java">
+</file>
+<file name="C:\devtools\javaanpr\src\test\java\net\sf\javaanpr\intelligence\SyntaxAnalysisModeTest.java">
+</file>
+<file name="C:\devtools\javaanpr\src\test\java\net\sf\javaanpr\recognizer\PatternComparatorTest.java">
+</file>
+<file name="C:\devtools\javaanpr\src\test\java\net\sf\javaanpr\recognizer\RecognizedCharTest.java">
+</file>
+<file name="C:\devtools\javaanpr\src\test\java\net\sf\javaanpr\test\RecognitionIT.java">
+</file>
+<file name="C:\devtools\javaanpr\src\test\java\net\sf\javaanpr\test\RecognitionPerformanceIT.java">
+</file>
+<file name="C:\devtools\javaanpr\src\test\java\net\sf\javaanpr\test\util\SimpleImageViewer.java">
+</file>
+<file name="C:\devtools\javaanpr\src\test\java\net\sf\javaanpr\test\util\TestUtility.java">
+</file>
+<file name="C:\devtools\javaanpr\src\test\resources\results.properties">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\devtools\javaanpr\src\test\resources\results_actual.properties">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\devtools\javaanpr\src\test\resources\results.properties">
+</file>
+<file name="C:\devtools\javaanpr\src\test\resources\results_actual.properties">
+</file>
+</checkstyle>
